@@ -1,0 +1,4 @@
+streamlit
+crewai
+pillow==11.1.0
+crewai_toolscl

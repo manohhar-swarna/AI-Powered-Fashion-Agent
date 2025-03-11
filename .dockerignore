@@ -1,0 +1,52 @@
+# Keep custom packages, requirements.txt, and shell scripts
+!**/*.py
+!**/*.sh
+!**/*.txt
+
+# Ignore cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories and files
+build/
+dist/
+*.egg-info/
+
+# Ignore test-related files
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache
+
+# Ignore other config files
+*.cfg
+*.ini
+
+# Ignore Docker-related files
+Dockerfile*
+docker-compose*
+
+# Ignore other temporary files
+*.log
