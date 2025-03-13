@@ -1,7 +1,7 @@
 # AI-Powered-Fashion-Agent
 
 ### Project Report
-<p> Please find the Project documentation :  </p>
+<p> Please find the Project documentation : https://github.com/manohhar-swarna/AI-Powered-Fashion-Agent/blob/33f67669e838ba7dfb120b84100ba32a10c43ed5/AI-Powered_Fashion_Project_Report%20.pdf</p>
 
 ### Output Screenshot
 
